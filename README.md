@@ -1,6 +1,6 @@
 ## Iris Classification
 
-Iris Classification made with Python (model accuracy 91%)
+Iris Classification made with Python (model accuracy 97%)
 
 Dataset from [Kaggle](https://www.kaggle.com/datasets/uciml/iris)
 
